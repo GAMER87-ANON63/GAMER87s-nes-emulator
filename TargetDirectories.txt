@@ -1,3 +1,0 @@
-D:/projects/nes/build/CMakeFiles/nes_emu.dir
-D:/projects/nes/build/CMakeFiles/edit_cache.dir
-D:/projects/nes/build/CMakeFiles/rebuild_cache.dir

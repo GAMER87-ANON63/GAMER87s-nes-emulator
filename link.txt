@@ -1,3 +1,0 @@
-D:\msys\ucrt64\bin\cmake.exe -E rm -f CMakeFiles\nes_emu.dir/objects.a
-D:\msys\ucrt64\bin\ar.exe qc CMakeFiles\nes_emu.dir/objects.a @CMakeFiles\nes_emu.dir\objects1.rsp
-D:\msys\ucrt64\bin\c++.exe -Wl,--whole-archive CMakeFiles\nes_emu.dir/objects.a -Wl,--no-whole-archive -o nes_emu.exe -Wl,--out-implib,libnes_emu.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\nes_emu.dir\linkLibs.rsp
